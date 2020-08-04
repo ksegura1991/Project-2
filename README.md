@@ -1,2 +1,2 @@
 # Project-2
-Grocery store disparities in Chicago
+Grocery stores in Chicago. Each pop-up will show you where each store in chicago is located and its name. 
